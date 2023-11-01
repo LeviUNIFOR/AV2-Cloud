@@ -47,5 +47,11 @@ node index.js
 
 git --version
 git init
-
+git status
+git add teste.txt
+(git add -A)
+git commit -m "Primeiro Commit"
+git commit -m "Segundo Commit"
+git log
+git checkout
 
